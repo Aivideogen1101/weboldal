@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Generálás</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li class="logo">CÉGNÉV<span>*</span></li>
+      <li><a href="#" id="kapcsolat">KAPCSOLAT</a></li>
+      <li><a href="#" id="hogyan">HOGYAN MÛKÖDIK?</a></li>
+      <li><a href="#" id="reg">REGISZTRÁCIÓ</a></li>
+      <li><a href="#" id="belepes">BELÉPÉS</a></li>
+    </ul>
+  </nav>
+
+  <div class="main-content">
+    <h1>KÉSZÍTS EL EGY<br>RÖVID VIDEÓT<br>EGY KATTINTÁSSAL</h1>
+    <button id="generate-btn" class="btn">VIDEO GENERÁLÁSA</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
